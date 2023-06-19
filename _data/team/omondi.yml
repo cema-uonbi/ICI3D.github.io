@@ -9,14 +9,18 @@ degrees:
   - degree: PhD
     discipline: Mathematical Biology
     institution: Strathmore University
-    year:
+    year: 2020
   - degree: MSc
     discipline: Mathematics
     institution: Stellenbosch University
-    year: 
+    year: 2016
+  - degree: MSc
+    discipline: Mathematical Sciences
+    institution: AIMS South Africa /Stellenbosch University
+    year: 2015
   - degree: BSc
     discipline: Applied Statisics and Computing
     institution: University of Eldoret
-    year:
+    year: 2013
 bio: Evans is a Senior Lecturer at the Institute of Mathematical Sciences at Strathmore University in Kenya.  He holds a PhD in Mathematical Biology from Strathmore University, an MSc in Mathematics from Stellenbosch University in South Africa, an MSc in Mathematical Sciences from AIMS-South Africa in collaboration with Stellenbosch University, and a BSc in Applied Statistics with Computing from the University of Eldoret. His primary research interests lie in building mathematical and statistical models applied in management and containment of infectious diseases.
 ---
